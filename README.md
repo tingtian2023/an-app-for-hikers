@@ -1,5 +1,9 @@
 # Welcome to your Lovable project
 
+## About This Project
+
+This hiking app was built as my first experience with Lovable! Using the free version, I was able to create this complete application from scratch in just 20 minutes. Pretty amazing what you can build with AI assistance!
+
 ## Project info
 
 **URL**: https://lovable.dev/projects/eb6c62b4-81c1-4b4d-b040-6aae56b64bfa
